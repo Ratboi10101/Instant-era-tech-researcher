@@ -2,36 +2,36 @@
 	{
 		"name": "Unlock all Ancient techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Classical techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Classical era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Classical era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Medieval techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Medieval era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Medieval era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Renaissance techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Renaissance era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Renaissance era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Modern techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Modern era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Modern era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Atomic era techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Atomic era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Atomic era]","Only available <for [Human player] Civilization>"]
 	},
 	{
 		"name": "Unlock all Information era techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Information era]","Only available <for [Human player Civilization]>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Information era]","Only available <for [Human player] Civilization>"]
 	}
 ]
