@@ -7,41 +7,49 @@
 	{
 		"name": "Unlock all Classical techs",
 		"cost": 0,
-		"uniques": ["Gain [500] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Classical era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Classical era]","[50] free random researchable Tech(s) from the [Classical era]","[50] free random researchable Tech(s) from the [Classical era]"]
+		"requiredBuilding": "Unlock all Ancient techs",
+		"uniques": ["Shown while unbuilable","Gain [500] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Classical era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Classical era]","[50] free random researchable Tech(s) from the [Classical era]","[50] free random researchable Tech(s) from the [Classical era]"]
 	},
 	{
 		"name": "Unlock all Medieval techs",
 		"cost": 0,
-		"uniques": ["Gain [700] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Medieval era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Medieval era]","[50] free random researchable Tech(s) from the [Medieval era]","[50] free random researchable Tech(s) from the [Medieval era]"]
+		"requiredBuilding": "Unlock all Classical techs",
+		"uniques": ["Shown while unbuilable","Gain [700] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Medieval era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Medieval era]","[50] free random researchable Tech(s) from the [Medieval era]","[50] free random researchable Tech(s) from the [Medieval era]"]
 	},
 	{
 		"name": "Unlock all Renaissance techs",
 		"cost": 0,
-		"uniques": ["Gain [1200] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Renaissance era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Renaissance era]","[50] free random researchable Tech(s) from the [Renaissance era]","[50] free random researchable Tech(s) from the [Renaissance era]"]
+		"requiredBuilding": "Unlock all Medieval techs",
+		"uniques": ["Shown while unbuilable","Gain [1200] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Renaissance era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Renaissance era]","[50] free random researchable Tech(s) from the [Renaissance era]","[50] free random researchable Tech(s) from the [Renaissance era]"]
 	},
 	{
 		"name": "Unlock all Industrial techs",
 		"cost": 0,
-		"uniques": ["Gain [2000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Industrial era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]"]
+		"requiredBuilding": "Unlock all Renaissance techs",
+		"uniques": ["Shown while unbuilable","Gain [2000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Industrial era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]","[50] free random researchable Tech(s) from the [Industrial era]"]
 	},
 	{
 		"name": "Unlock all Modern techs",
 		"cost": 0,
-		"uniques": ["Gain [3000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Modern era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]"]
+		"requiredBuilding": "Unlock all Industrial techs",
+		"uniques": ["Shown while unbuilable","Gain [3000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Modern era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]","[50] free random researchable Tech(s) from the [Modern era]"]
 	},
 	{
 		"name": "Unlock all Atomic era techs",
 		"cost": 0,
-		"uniques": ["Gain [5000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Atomic era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]"]
+		"requiredBuilding": "Unlock all Modern techs",
+		"uniques": ["Shown while unbuilable","Gain [5000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Atomic era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]","[50] free random researchable Tech(s) from the [Atomic era]"]
 	},
 	{
 		"name": "Unlock all Information era techs",
 		"cost": 0,
-		"uniques": ["Gain [10000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Information era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]"]
+		"requiredBuilding": "Unlock all Atomic era techs",
+		"uniques": ["Shown while unbuilable","Gain [10000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Information era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]","[50] free random researchable Tech(s) from the [Information era]"]
 	},
 	{
 		"name": "Unlock... too lazy to discover future tech?",
 		"cost": 0,
-		"uniques": ["Gain [500000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Future era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Future era]","[50] free random researchable Tech(s) from the [Future era]","[50] free random researchable Tech(s) from the [Future era]"]
+		"requiredBuilding": "Unlock all Information era techs",
+		"uniques": ["Shown while unbuilable","Gain [500000] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Future era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Future era]","[50] free random researchable Tech(s) from the [Future era]","[50] free random researchable Tech(s) from the [Future era]"]
 	},
 ]
