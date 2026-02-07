@@ -2,7 +2,7 @@
 	{
 		"name": "Unlock all Ancient techs",
 		"cost": 0,
-		"uniques": ["[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player] Civilizations>"]
+		"uniques": ["[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]"]
 	},
 	{
 		"name": "Unlock all Classical techs",
