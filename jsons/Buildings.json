@@ -2,7 +2,7 @@
 	{
 		"name": "Unlock all Ancient techs",
 		"cost": 0,
-		"uniques": ["Gain [200] [Gold]","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]"]
+		"uniques": ["Gain [200] [Gold] <(modified by game speed)>","Can only be built <in [Capital] cities>","[50] free random researchable Tech(s) from the [Ancient era]","Only available <for [Human player] Civilizations>","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]","[50] free random researchable Tech(s) from the [Ancient era]"]
 	},
 	{
 		"name": "Unlock all Classical techs",
